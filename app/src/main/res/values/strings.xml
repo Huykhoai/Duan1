@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ShopTechnology</string>
+    <string name="sp">Sản phẩm mới nhất :</string>
+    <string name="hello_blank_fragment">hello</string>
+
+    //layout_chi tiết sản phẩm
+    <string name="tensanpham">Tên sản phẩm</string>
+    <string name="giasp">Giá sản phẩm</string>
+    <string name="themgiohang">Thêm giỏ hàng</string>
+    <string name="chitietsp">Chi tiết sản phẩm</string>
+    <string name="ct">Chi tiết</string>
+
+    //activity_giohang
+    <string name="thongbao">Giỏ hàng của bạn trống !</string>
+    <string name="tongtien">Tổng tiền :</string>
+    <string name="giatri">Giá trị</string>
+    <string name="btthanhtoan">Thanh toán</string>
+    <string name="ttmuahang">Tiếp tục mua hàng</string>
+
+    //item_dienthoai
+    <string name="motasp">Mô tả sản phẩm</string>
+    <string name="loaisp">Loại sản phẩm</string>
+    <string name="spnew">Sản phẩm mới nhất :</string>
+    <string name="ttkhachhang">Thông tin khách hàng</string>
+    <string name="btxacnhan">Xác nhận</string>
+    <string name="btback">Trờ về</string>
+    <string name="lienhe">Địa chỉ: Tầng 29, Tòa nhà trung tâm Lotte Hà Nội, 54 Liễu Giai, phường Cống Vị, Quận Ba Đình, Hà Nội. Tổng đài hỗ trợ: 19001221 - Email: support@shopapp.vn</string>
+    <string name="follow">Theo dõi chúng tôi trên :</string>
+    <string name="action_seach">Seach</string>
+    <string name="title_activity_thongtin">ThongtinActivity</string>
+</resources>
